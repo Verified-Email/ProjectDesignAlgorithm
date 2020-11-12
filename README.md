@@ -1,2 +1,2 @@
-# ProjectDesignAlgorithm
-Designing an is touching algorithm for rectangles
+# p5.play-boilerplate
+Boiler plate for p5.play
